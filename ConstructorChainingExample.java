@@ -36,5 +36,7 @@ public class ConstructorChainingExample {
     public static void main(String[] args) {
         // Create an object of the Car class using the 3-parameter constructor
         Car car = new Car("Toyota", "Camry", 2022);
+        Car car2=new Car("tata","nano",123);
+        Car car3=new Car("mercendiz","benz",12345);
     }
 }
